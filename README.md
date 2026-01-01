@@ -1,6 +1,5 @@
 # (Master-2, 2025) Supply-Chain Project
-<LCA 기반 탄소감축을 고려한 OEM–공급자 간 공급망 조정모형 연구
-“A Supply Chain Coordination Model Between OEMs and Suppliers Considering Carbon Reduction Based on Life Cycle Assessment (LCA)”>
+<LCA 기반 탄소감축을 고려한 OEM–공급자 간 공급망 조정모형 연구 : A Supply Chain Coordination Model Between OEMs and Suppliers Considering Carbon Reduction Based on Life Cycle Assessment (LCA)>
 
 ## 0. Project Overview
 - **Project Period**: 2025.09 - 2025.12
